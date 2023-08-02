@@ -1,4 +1,4 @@
-SELECT score, name
-FROM hbtn_0c_0.second_table
+-- listing all records in order
+SELECT score,name
+FROM second_table
 ORDER BY score DESC;
-
