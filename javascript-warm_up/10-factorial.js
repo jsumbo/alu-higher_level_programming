@@ -16,4 +16,3 @@ if (isNaN(firstArg)) {
   const n = Number(firstArg);
   console.log(factorial(n));
 }
-
